@@ -13,7 +13,7 @@ I'm always curious about how things work under the hood and enjoy learning new t
 - **Tools:** Git, Docker, Figma  
 
 ### ☕ Fun facts
-- I enjoy reading all kinds of texts  
+- I enjoy reading
 - I love coffee  
 - Constantly learning and experimenting with new technologies  
 - I like learning new languages (who knows where we’ll end up in the future)
