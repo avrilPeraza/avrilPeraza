@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Avril
 
-<!--
-**avrilPeraza/avrilPeraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a strong interest in backend development,  
+where I enjoy designing clean, scalable, and well-structured systems.  
+At the same time, I believe frontend matters too, and I like building complete solutions that connect solid logic with good user experiences.
 
-Here are some ideas to get you started:
+I'm always curious about how things work under the hood and enjoy learning new technologies, improving my skills, and applying best practices to real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Backend:** Java (Spring Boot), Node.js, NestJS  
+- **Frontend:** TypeScript, React, JavaScript, Next.js, HTML, CSS, Tailwind  
+- **Database:** PostgreSQL, Oracle  
+- **Tools:** Git, Docker, Figma  
+
+### ☕ Fun facts
+- I enjoy reading all kinds of texts  
+- I love coffee  
+- Constantly learning and experimenting with new technologies  
+- I like learning new languages (who knows where we’ll end up in the future)
